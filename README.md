@@ -1,8 +1,22 @@
 # sas- Sing a Song :)
-PdfReader project.
-This is a pdf reader project.
-The project has some cool functionalities from  various readers implemented by self made ideas.
-Our reader can get meanings of the words on the fly;save the pain of going to wiki every time.
-You can bookmark the page you are reading.
-You can add your favourite lines if you are reading a novel or if you are reading an academic book you can note down important lines etc..,
-You can also search books in your hard drive from inside the reader itself.
+PDF Reader project. 
+Has various cool functionalities like searching,Highlighting,Finding meanings on the fly, Night mode,Bookmarking etc...
+
+How to use it? 
+
+1) Download the .zip file and extract it. 
+2) Open eclipse. 
+   Import --> Add Eisting Projects to workspace --> Select the "PDF-Reader" root folder and press open. 
+3) Now the project will be opened in Eclipse. 
+4) Now we need to add the required jar files. 
+   Right Click on the project --> Build Path --> Configure Build Path 
+5) Click on it. Now go to the Libraries Tab. 
+   Add External JARs --> Select both the JARs in the "jars" folder and add them. 
+   
+6) Now sit back, relax and run the project. 
+
+7) To open any file, just click on the "File" option in the beginning. 
+8) The book button helps you to search the files on your hard-disk but it takes long time. 
+9) So, open your pdf and read on. 
+
+:) 
