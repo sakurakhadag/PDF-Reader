@@ -1,8 +1,7 @@
-# sas- Sing a Song :)
-PDF Reader project. 
+# PDF Reader
 Has various cool functionalities like searching,Highlighting,Finding meanings on the fly, Night mode,Bookmarking etc...
 
-How to use it? 
+How to Install on Linux machines? 
 
 1) Download the .zip file and extract it. 
 2) Open eclipse. 
